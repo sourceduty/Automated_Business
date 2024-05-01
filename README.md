@@ -8,9 +8,16 @@
 An automated business model refers to a system where various processes and operations are managed automatically, typically through the use of technology, software, and artificial intelligence. This model aims to reduce or eliminate the need for human intervention in daily business activities. Automation can be applied to numerous aspects of a business, including customer service (through chatbots and AI-driven support systems), sales (via online platforms and automated sales tools), marketing (through data-driven advertising technologies), and operations (using supply chain management systems and robotics).
 
 #
+
+<details><summary>100% Automated Business</summary>
+<br>
+
 ### 100% Automated Business
 
 While many aspects of a business can be automated, achieving a 100% automated business is challenging and depends heavily on the nature of the industry. Some sectors, like manufacturing and digital services, can approach near-complete automation with current technologies. For instance, a fully automated manufacturing line might operate with robotic assembly systems, and an online business might run with software handling everything from sales to customer interactions. However, strategic decision-making, creative processes, and areas requiring nuanced human judgment still largely depend on human input. As technology advances, the scope of automation will increase, but a completely automated business in all aspects remains a hypothetical scenario for most industries.
+
+<br>
+</details>
 
 <details><summary>Laws for 100% Automated Businesses</summary>
 <br>
