@@ -64,5 +64,16 @@ In the diagram above, specific types of automated businesses are identified, eac
 <br>
 </details>
 
+#
+### Related Links
+
+[Business Model Simulator](https://chat.openai.com/g/g-C8QfN0boj-business-model-simulator)
+<br>
+[Business Research](https://github.com/sourceduty/Business_Research)
+<br>
+[Corporation Planner](https://chat.openai.com/g/g-i960d9ZnH-corporation-planner)
+<br>
+[Business Concept](https://chat.openai.com/g/g-Xm4w9hlF5-business-concept)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
