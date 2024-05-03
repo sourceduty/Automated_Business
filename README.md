@@ -78,6 +78,8 @@ In the diagram above, specific types of automated businesses are identified, eac
 [Business Automation](https://chat.openai.com/g/g-Y2GamnRIL-business-automation)
 <br>
 [Process Automation](https://github.com/sourceduty/Process_Automation)
+<br>
+[Decision Automation](https://chat.openai.com/g/g-yu3DyIRMI-decision-automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
