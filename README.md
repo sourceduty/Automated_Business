@@ -82,6 +82,8 @@ In the diagram above, specific types of automated businesses are identified, eac
 [Decision Automation](https://chat.openai.com/g/g-yu3DyIRMI-decision-automation)
 <br>
 [Business Automation Problem](https://github.com/sourceduty/Business_Automation_Problem)
+<br>
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
