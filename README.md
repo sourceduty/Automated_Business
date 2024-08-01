@@ -84,6 +84,8 @@ In the diagram above, specific types of automated businesses are identified, eac
 [Business Automation Problem](https://github.com/sourceduty/Business_Automation_Problem)
 <br>
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Chat Simulator](https://github.com/sourceduty/Chat_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
