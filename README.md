@@ -1,4 +1,4 @@
-![Automated Business](https://github.com/sourceduty/Automated_Business/assets/123030236/abbf620a-21f8-49a0-a2b7-9a0cca3cc26f)
+![Repo Card](https://github.com/user-attachments/assets/9cc1b0f4-9e68-4119-a2b6-7968c17cec8a)
 
 > Business structures managed by automated software and robots, with minimal human intervention.
 
@@ -63,6 +63,10 @@ In the diagram above, specific types of automated businesses are identified, eac
 
 <br>
 </details>
+
+#
+
+![Automated Business](https://github.com/sourceduty/Automated_Business/assets/123030236/abbf620a-21f8-49a0-a2b7-9a0cca3cc26f)
 
 #
 ### Related Links
