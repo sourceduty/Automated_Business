@@ -1,4 +1,4 @@
-![Repo Card](https://github.com/user-attachments/assets/9cc1b0f4-9e68-4119-a2b6-7968c17cec8a)
+![Automated Business](https://github.com/user-attachments/assets/55295726-08c1-445a-81e4-ccbeaa3d6f52)
 
 > Business structures managed by automated software and robots, with minimal human intervention.
 
