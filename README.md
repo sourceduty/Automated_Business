@@ -69,6 +69,10 @@ In the diagram above, specific types of automated businesses are identified, eac
 ![Automated Business](https://github.com/sourceduty/Automated_Business/assets/123030236/abbf620a-21f8-49a0-a2b7-9a0cca3cc26f)
 
 #
+
+![Robotesla](https://github.com/user-attachments/assets/5a7bb2b9-0f93-435c-b10f-c45c70a04bb3)
+
+#
 ### Related Links
 
 [Business Model Simulator](https://chat.openai.com/g/g-C8QfN0boj-business-model-simulator)
