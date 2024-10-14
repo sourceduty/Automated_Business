@@ -101,7 +101,7 @@ In the diagram above, specific types of automated businesses are identified, eac
 <br>
 [Sourceduty Employee](https://github.com/sourceduty/Sourceduty_Employee)
 <br>
-[Art Robotic](https://github.com/sourceduty/Art_Robotics)
+[Art Robotics](https://github.com/sourceduty/Art_Robotics)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
