@@ -1,4 +1,4 @@
-![Automated Business](https://github.com/user-attachments/assets/55295726-08c1-445a-81e4-ccbeaa3d6f52)
+![Robo](https://github.com/user-attachments/assets/7e6e5e99-48fa-4ee9-bc95-3b7ec07ee44d)
 
 > Business structures managed by automated software and robots, with minimal human intervention.
 
@@ -65,11 +65,10 @@ In the diagram above, specific types of automated businesses are identified, eac
 </details>
 
 #
-
 ![Automated Business](https://github.com/sourceduty/Automated_Business/assets/123030236/abbf620a-21f8-49a0-a2b7-9a0cca3cc26f)
-
 #
-
+![Automated Business](https://github.com/user-attachments/assets/55295726-08c1-445a-81e4-ccbeaa3d6f52)
+#
 ![Robotesla](https://github.com/user-attachments/assets/5a7bb2b9-0f93-435c-b10f-c45c70a04bb3)
 
 #
